@@ -9,6 +9,14 @@
     flex-direction: column;
 }
 
+#logo {
+    position: relative;
+    top: -16rem;
+    left: -3rem;  
+    height: 60px;
+    width: auto;
+}
+
 .main__right {
     flex: 0.2
 }
